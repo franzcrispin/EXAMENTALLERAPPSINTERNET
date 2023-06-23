@@ -1,4 +1,5 @@
-# Examen de primer parcial pokedex
+# PokeApp with Angular Material
+
 Angular aplication that uses pokeapi:
 https://pokeapi.co/docs/v2#pokemon-section
 
